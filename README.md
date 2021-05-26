@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KrishnaSharma206
+- 👀 I’m interested in Robotics and Coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on a robotics project
+- 📫 You can reach me on cookiebotworks@gmail.com
